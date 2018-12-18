@@ -7,6 +7,7 @@ var mother=”Mother’s Day”
 function happyHolidays() {
   return "Happy holidays!"
 }
+happyHolidays()
 
 function happyHolidaysTo(name) {
   return "Happy holidays, $(name)!"
