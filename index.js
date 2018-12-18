@@ -1,12 +1,12 @@
 // write your code below!
-var name = Mitch;
+var name = you;
 
 function happyHolidays() {
   return("Happy holidays!")
 }
 
 function happyHolidaysTo(name) {
-  return('Happy $(holiday), (name)!')
+  return ('Happy $(holiday), $(name)!')
 }
 
 function happyHolidaysTo(holiday, name) {
